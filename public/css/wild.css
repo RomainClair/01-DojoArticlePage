@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Raleway;
+    src: url(../fonts/raleway/Raleway-Regular.ttf);
+}
+
+@font-face {
+    font-family: Raleway;
+    src: url(../fonts/raleway/Raleway-Bold.ttf);
+    font-weight: bold;
+}
+
+body {
+    font-family: Raleway;
+    text-align: center;
+}
+
+article {
+    margin: auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    width: 60%;
+    background-color: salmon;
+    color: white;
+    border-radius: 10px;
+}
